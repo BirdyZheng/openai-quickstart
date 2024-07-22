@@ -13,4 +13,4 @@ link: https://github.com/BirdyZheng/openai-quickstart/blob/main/langchain/jupyte
 
 #### Homework 4
 content: 实战sales chatbot
-link: DOING...
+link: https://github.com/BirdyZheng/openai-quickstart/blob/main/langchain/shipping_sales_chatbot/sales_chatbot.py
